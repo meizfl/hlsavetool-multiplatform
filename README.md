@@ -97,4 +97,4 @@ hlsaves [OPTION] input output [-v]
 
 ## License
 
-MIT – same as the original project.
+GPL-3.0 license
